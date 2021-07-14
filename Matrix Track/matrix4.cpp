@@ -1,5 +1,5 @@
 //Given a boolean 2D array of n x m dimensions where each row is sorted. Find the 0-based index of the first row 
-//that has the maximum number of 1's.
+//that has the maximum number of 1's
 
 #include<bits/stdc++.h>
 using namespace std;
