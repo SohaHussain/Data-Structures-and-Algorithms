@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    vector <vector<int>> m; // 2d vector
+    vector <vector<int>> m; // creating 2d vector
     int r;
     cin>>r;
     int c;
