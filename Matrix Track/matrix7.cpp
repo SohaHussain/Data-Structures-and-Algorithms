@@ -1,4 +1,4 @@
-// rotate a square matrix by 90 degrees counter clockwise
+// rotate a square matrix by 90 degrees counter clockwise.
 // logic: first find transpose of a matrix and then reverse the columns
 
 #include<bits/stdc++.h>
