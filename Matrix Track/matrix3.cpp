@@ -1,4 +1,4 @@
-// finding median in a row wise sorted matrix
+// finding median in a row wise sorted matrix.
 #include<bits/stdc++.h>
 using namespace std;
 int main()
