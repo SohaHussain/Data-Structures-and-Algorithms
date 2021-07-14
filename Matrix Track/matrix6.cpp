@@ -1,4 +1,4 @@
-// transpose of a sqaure matrix
+// transpose of a sqaure matrix.
 // logic: diagonal elements remain same, only the upper triangle matrix elements are swappped with lower triangle
 //         matrix elements
 #include<bits/stdc++.h>
