@@ -1,4 +1,4 @@
-// rotate a square matrix clockwise
+// rotate a square matrix clockwise.
 // first find transpose and then reverse the rows
 
 #include<bits/stdc++.h>
