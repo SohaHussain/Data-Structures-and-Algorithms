@@ -1,4 +1,4 @@
-// printing matrix in snake pattern
+// printing matrix in snake pattern.
 // logic: for odd no. of row go L->R (not 0 based index numbering)
 //        for even no. of row go R->L
 
