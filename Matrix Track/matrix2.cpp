@@ -1,4 +1,4 @@
-// find element in a row wise and column wise sorted matrix
+// find element in a row wise and column wise sorted matrix.
 #include<bits/stdc++.h>
 using namespace std;
 int main()
