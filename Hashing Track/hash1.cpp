@@ -1,4 +1,4 @@
-//  given an array and sum x , find if there is a subarray with sum equal to x.
+//  given an array and sum x , find if there is a subarray with sum equal to x
 
 #include<bits/stdc++.h>
 using namespace std;
