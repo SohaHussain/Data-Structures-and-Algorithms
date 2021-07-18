@@ -1,4 +1,4 @@
-// factorial 
+// factorial (not tail recursive)
 #include<bits/stdc++.h>
 using namespace std;
 
