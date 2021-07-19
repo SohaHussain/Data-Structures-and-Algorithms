@@ -7,12 +7,14 @@
         1.Take two pointers l and r. Initialize l to the starting index 0 and r to the last index n-1
         2.Since l is the first element, left_max would be 0, and right max for r would be 0
         3.While l <= r , iterate the array . We have two possible conditions
+          
           Condition1 : left_max <= right max
           1.Consider Element at index l
           2.Since we have traversed all elements to the left of l, left_max is known 
           3.For the right max of l, We can say that the right max would  always be >= current r_max here
           4.So, min(left_max,right_max) would always equal to left_max in this case
           5.Increment l
+         
           Condition2 : left_max >  right max
           1.Consider Element at index r
           2.Since we have traversed all elements to the right of r, right_max is known
