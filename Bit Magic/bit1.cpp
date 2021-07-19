@@ -1,5 +1,5 @@
 // count set bits in an integer
-// Brian Karnigham algo o(no. of set bits)
+// Brian Kernighan algo o(no. of set bits)
 #include<bits/stdc++.h>
 using namespace std;
 int main()
