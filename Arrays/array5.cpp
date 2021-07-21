@@ -1,6 +1,7 @@
 // stocks- buy, sell
 // input- an array of stock prices on each day
 // output- maximum profit
+// we are allowed to buy  and sell multiple times
 
 #include<bits/stdc++.h>
 using namespace std;
