@@ -8,3 +8,5 @@
 6. https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k/
 7. https://www.geeksforgeeks.org/equilibrium-index-of-an-array/
 8. https://www.geeksforgeeks.org/split-array-three-equal-sum-subarrays/
+## Bit Magic
+1. https://www.geeksforgeeks.org/count-set-bits-in-an-integer/
