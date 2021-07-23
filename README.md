@@ -35,3 +35,10 @@
 7. https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/
 8. https://www.geeksforgeeks.org/sum-digit-number-using-recursion/
 9. https://stackoverflow.com/questions/63250075/find-the-maximum-number-of-pieces-a-rod-can-be-cut
+## Searching
+1. https://www.geeksforgeeks.org/binary-search/
+2. https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/
+3. https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/
+4. https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
+5. https://www.geeksforgeeks.org/count-1s-sorted-binary-array/
+6. https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
