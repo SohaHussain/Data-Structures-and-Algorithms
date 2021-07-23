@@ -25,3 +25,13 @@
 6. https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/
 7. https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
 8. https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/
+## Recursion
+1. https://www.geeksforgeeks.org/program-for-factorial-of-a-number/
+2. https://www.geeksforgeeks.org/program-to-print-numbers-from-n-to-1-in-reverse-order/
+3. https://www.geeksforgeeks.org/print-numbers-1-n-using-indirect-recursion/
+4. https://www.geeksforgeeks.org/print-numbers-1-n-using-indirect-recursion/
+5. https://www.geeksforgeeks.org/program-for-factorial-of-a-number/
+6. https://www.geeksforgeeks.org/recursive-function-check-string-palindrome/
+7. https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/
+8. https://www.geeksforgeeks.org/sum-digit-number-using-recursion/
+9. https://stackoverflow.com/questions/63250075/find-the-maximum-number-of-pieces-a-rod-can-be-cut
