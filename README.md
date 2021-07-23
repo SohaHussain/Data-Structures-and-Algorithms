@@ -42,3 +42,9 @@
 4. https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
 5. https://www.geeksforgeeks.org/count-1s-sorted-binary-array/
 6. https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+## Strings
+1. https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+2. https://www.geeksforgeeks.org/find-the-first-repeated-character-in-a-string/
+3. https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+4. https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/
+5. https://www.geeksforgeeks.org/lexicographic-rank-string-using-stl/
