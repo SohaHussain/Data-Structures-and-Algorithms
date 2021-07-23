@@ -10,3 +10,10 @@
 8. https://www.geeksforgeeks.org/split-array-three-equal-sum-subarrays/
 ## Bit Magic
 1. https://www.geeksforgeeks.org/count-set-bits-in-an-integer/
+## Hashing Track
+1. https://www.geeksforgeeks.org/find-subarray-with-given-sum/
+2. https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/
+3. https://www.geeksforgeeks.org/frequent-element-array/
+4. https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/
+5. https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
+
