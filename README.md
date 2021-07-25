@@ -43,6 +43,7 @@
 5. https://www.geeksforgeeks.org/count-1s-sorted-binary-array/
 6. https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
 7. https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+8. https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/
 ## Strings
 1. https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
 2. https://www.geeksforgeeks.org/find-the-first-repeated-character-in-a-string/
