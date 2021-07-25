@@ -45,6 +45,7 @@
 7. https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 8. https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/
 9. https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
+10. https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/
 ## Strings
 1. https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
 2. https://www.geeksforgeeks.org/find-the-first-repeated-character-in-a-string/
