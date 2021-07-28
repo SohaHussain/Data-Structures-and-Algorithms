@@ -49,6 +49,7 @@
 ## Sorting
 1. https://www.geeksforgeeks.org/bubble-sort/
 2. https://www.geeksforgeeks.org/selection-sort/
+3. https://www.geeksforgeeks.org/insertion-sort/
 ## Strings
 1. https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
 2. https://www.geeksforgeeks.org/find-the-first-repeated-character-in-a-string/
