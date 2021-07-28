@@ -1,5 +1,6 @@
 // given a sorted and a rotated array of distinct elements and an element x, find if x is present in array or not
-// logic: check the middle element , if not same , check if left part of array is less than or equal to mid element , if not then right part is sorted, then apply binary search
+// logic: check the middle element , if not same , check if left part of array is less than or equal to mid element , if not then right part is sorted, then apply
+//binary search
 
 #include<bits/stdc++.h>
 using namespace std;
