@@ -52,8 +52,6 @@
 3. https://www.geeksforgeeks.org/insertion-sort/
 4. https://www.geeksforgeeks.org/merge-sort/
 5. https://www.geeksforgeeks.org/quick-sort/
-6. https://www.geeksforgeeks.org/cycle-sort/
-7. https://www.geeksforgeeks.org/counting-inversions/
 ## Strings
 1. https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
 2. https://www.geeksforgeeks.org/find-the-first-repeated-character-in-a-string/
