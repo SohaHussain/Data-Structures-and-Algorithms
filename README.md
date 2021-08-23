@@ -16,6 +16,8 @@
 3. https://www.geeksforgeeks.org/frequent-element-array/
 4. https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/
 5. https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
+## Linked Lists
+1. https://www.geeksforgeeks.org/linked-list-set-1-introduction/
 ## Matrix Track
 1. https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
 2. https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
@@ -58,5 +60,4 @@
 3. https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
 4. https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/
 5. https://www.geeksforgeeks.org/lexicographic-rank-string-using-stl/
-## Linked Lists
-1. https://www.geeksforgeeks.org/linked-list-set-1-introduction/
+
