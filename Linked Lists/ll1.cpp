@@ -1,4 +1,4 @@
-// simple linked list with three nodes
+// simple linked list with 3 nodes
 
 #include<bits/stdc++.h>
 using namespace std;
