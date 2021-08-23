@@ -18,6 +18,7 @@
 5. https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
 ## Linked Lists
 1. https://www.geeksforgeeks.org/linked-list-set-1-introduction/
+2. https://www.geeksforgeeks.org/linked-list-set-1-introduction/
 ## Matrix Track
 1. https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
 2. https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
