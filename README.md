@@ -58,3 +58,5 @@
 3. https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
 4. https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/
 5. https://www.geeksforgeeks.org/lexicographic-rank-string-using-stl/
+## Linked Lists
+1. https://www.geeksforgeeks.org/linked-list-set-1-introduction/
