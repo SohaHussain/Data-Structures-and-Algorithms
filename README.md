@@ -19,6 +19,7 @@
 ## Linked Lists
 1. https://www.geeksforgeeks.org/linked-list-set-1-introduction/
 2. https://www.geeksforgeeks.org/linked-list-set-1-introduction/
+3. https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/
 ## Matrix Track
 1. https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
 2. https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
