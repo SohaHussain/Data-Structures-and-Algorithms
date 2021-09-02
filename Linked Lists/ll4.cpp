@@ -1,4 +1,6 @@
 // recursive traversal in a linked list 
+// t -> O(n)
+// s -> O(n)
 
 #include<bits/stdc++.h>
 using namespace std;
