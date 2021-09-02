@@ -1,4 +1,6 @@
-// traversal in a linked list 
+// iterative traversal in a linked list 
+// t -> O(n)
+// s -> no auxiliary space therefore better than recursive traversal
 
 #include<bits/stdc++.h>
 using namespace std;
