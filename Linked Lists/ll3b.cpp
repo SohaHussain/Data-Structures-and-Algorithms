@@ -1,6 +1,6 @@
 // insertion at the beginning of a singly linked list 
-// t -> O(n)
-// s -> O(n)
+// t -> O(1)
+
 
 #include<bits/stdc++.h>
 using namespace std;
