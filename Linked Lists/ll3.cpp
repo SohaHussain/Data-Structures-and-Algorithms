@@ -1,4 +1,4 @@
-// insertion at the end of a singly linked list 
+// insertion at the beginning of a singly linked list 
 
 
 #include<bits/stdc++.h>
