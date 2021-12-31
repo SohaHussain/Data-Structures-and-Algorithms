@@ -3,7 +3,7 @@
    logic: prefix sum:
           1. first calculate the sum of whole array
           2. iterate through the array and check if the sum of elements left to the current element is equal to 
-             sum- current element , if not add current element to left sum and subtract current element from the sum
+             sum - current element , if not add current element to left sum and subtract current element from the sum
              of array
    */
 
