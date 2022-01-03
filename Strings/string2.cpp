@@ -1,5 +1,5 @@
-// given a string find the 1st repeating character in it(whose 1st index appears 1st)
-//logic: make count[256] and then traverse the string and for every character strore its 1st index
+// given a string find the 1st repeating character in it (whose 1st index appears 1st)
+// logic: make count[256] and then traverse the string and for every character strore its 1st index
 
 #include<bits/stdc++.h>
 using namespace std;
