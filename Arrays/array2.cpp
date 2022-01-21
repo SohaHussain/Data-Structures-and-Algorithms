@@ -1,5 +1,6 @@
 // rotate an array
-/* logic: first reverse the elements till the no. of rotations 
+/* 
+logic: first reverse the elements till the no. of rotations 
           then reverse the remaining elements after no. of rotations
           then reverse the whole array
     example: arr[]={5,8,10,12,15}  d=2(no. of rotations)
@@ -7,7 +8,7 @@
            1. revrse elements till index (d-1)  {8,5,10,12,15}
            2. revesre elements from index d     {8,5,15,12,10}
            3. reverse the whole array           {10,12,15,5,8}
-           */
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
