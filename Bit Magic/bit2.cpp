@@ -1,4 +1,5 @@
 // https://www.geeksforgeeks.org/find-nth-magic-number/
+// TC -> log(n)
 #include<bits/stdc++.h>
 using namespace std;
 int main()
