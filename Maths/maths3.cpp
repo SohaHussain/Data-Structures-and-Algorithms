@@ -1,5 +1,3 @@
-//https://www.geeksforgeeks.org/program-for-newton-raphson-method/
-
 // TC : O(sqrt(n))
 // SC : O(n)
 
