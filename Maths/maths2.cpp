@@ -5,9 +5,11 @@ using namespace std;
 
 int main()
 {
-    double n; // number whose root is to be calculated
+    // number whose root is to be calculated
+    double n; 
     cin>>n;
-    double x=n; // our guessed root
+    // our guessed root
+    double x=n; 
     double root;
     while(true)
     {
