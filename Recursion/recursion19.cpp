@@ -12,9 +12,12 @@ void solve(int ind, vector<int> &ans, int arr[], int n)
         cout<<'\n';
         return;
     }
+    
     ans.push_back(arr[ind]);
+    //take the particular index in subsequence
     solve(ind+1,ans,arr,n);
     ans.pop_back();
+    // not take the particular index in subsequence
     solve(ind+1,ans,arr,n);
 }
 int main()
