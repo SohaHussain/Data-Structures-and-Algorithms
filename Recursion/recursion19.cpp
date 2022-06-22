@@ -1,5 +1,7 @@
 // printing all the subsequences
 
+// TC : 2^n * n
+
 #include<bits/stdc++.h>
 using namespace std;
 
