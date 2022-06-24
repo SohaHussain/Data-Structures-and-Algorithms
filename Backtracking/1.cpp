@@ -1,3 +1,7 @@
+// https://leetcode.com/problems/n-queens/
+
+// https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/
+
 void solve(int c,vector<string> &bd,vector<vector<string>> &ans,vector<int>&lr,vector<int> &ud, vector<int> &ld, int n)
     {
         if(c == n)
