@@ -1,3 +1,8 @@
+
+// https://leetcode.com/problems/sudoku-solver/
+
+// https://takeuforward.org/data-structure/sudoku-solver/
+
 bool isvalid(vector<vector<char>> &b,int r,int c,char n)
     {
         for(int i=0;i<9;i++)
