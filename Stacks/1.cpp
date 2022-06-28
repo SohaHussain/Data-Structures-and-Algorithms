@@ -1,4 +1,6 @@
- vector<long long> nextLargerElement(vector<long long> arr, int n)
+// https://www.geeksforgeeks.org/next-greater-element/
+
+vector<long long> nextLargerElement(vector<long long> arr, int n)
  {
         vector<long long> ans;
         stack<long long> st;
