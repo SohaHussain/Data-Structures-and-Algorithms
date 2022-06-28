@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/previous-greater-element/
+
 void solve(vector<int> &arr,int n,vector<int> &ans)
 {
     stack<int>st;
