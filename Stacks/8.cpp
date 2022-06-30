@@ -1,4 +1,5 @@
 // https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1
+// https://leetcode.com/problems/trapping-rain-water/
 
 long long trappingWater(int arr[], int n){
         int maxl[n];
