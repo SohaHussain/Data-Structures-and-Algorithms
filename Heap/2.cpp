@@ -2,7 +2,7 @@
 
 // TC : nlog(k)
 
-vector <int> nearlySorted(int arr[], int num, int k){
+vector<int> nearlySorted(int arr[], int num, int k){
         priority_queue<int,vector<int>,greater<int>> minh;
         vector<int> ans;
         for(int i=0;i<num;i++)
