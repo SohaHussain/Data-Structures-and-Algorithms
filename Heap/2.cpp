@@ -1,3 +1,7 @@
+// https://practice.geeksforgeeks.org/problems/nearly-sorted-1587115620/1/#
+
+// TC : nlog(k)
+
 vector <int> nearlySorted(int arr[], int num, int k){
         priority_queue<int,vector<int>,greater<int>> minh;
         vector<int> ans;
