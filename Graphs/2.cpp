@@ -1,3 +1,5 @@
+// depth first search (DFS) 
+
 void dfs(int node,vector<int> &vis,vector<int> adj[],vector<int>ans)
 {
     ans.push_back(node);
