@@ -4,7 +4,7 @@
 
 int knapSack(int W, int wt[], int val[], int n) 
     { 
-       int i, w; 
+       int i, j; 
        int dp[n+1][W+1]; 
       
        //building table K[][] in bottom up manner.
