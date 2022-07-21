@@ -23,7 +23,7 @@ string longestCommonSubsequence(string text1, string text2)
         }
        int i=n;
        int j=m;
-       vector<string> s;
+       string s="";
        while(i>0 && j>0)
        {
          if(text1[i-1]==text2[j-1])
