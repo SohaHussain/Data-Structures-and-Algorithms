@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/insert-into-a-binary-search-tree/
+// TC: O(log n)
 TreeNode* insertIntoBST(TreeNode* root, int val) 
     {
         if(root==NULL)                       
