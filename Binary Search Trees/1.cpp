@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/delete-node-in-a-bst/
+// TC : O(log n) (i.e. height of tree)
+
 TreeNode* deleteNode(TreeNode* root, int key) 
     {
         if(root==NULL)        
